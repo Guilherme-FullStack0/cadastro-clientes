@@ -52,7 +52,7 @@ npm install
 # Execute o projeto
 npm start
 
-📫 Contato
+### 📫 Contato
 Desenvolvido por [Guilherme]
 📧 Email: [guilhermesimaohasckel@gmail.com]
 🔗 GitHub: [https://github.com/Guilherme-FullStack0]
