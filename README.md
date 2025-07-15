@@ -17,6 +17,42 @@ Projeto simples de sistema de **Cadastro de Clientes**, que permite realizar ope
 - Banco de Dados — Ex: PostgreSQL, MySQL, MongoDB
 - Ferramentas Auxiliares — Ex: Postman, Insomnia, Docker
 
-> ⚠️ Altere os nomes das tecnologias acima conforme seu projeto.
-
 ## 📂 Estrutura do Projeto
+
+cadastro-cliente/
+├── src/
+│ ├── controllers/
+│ ├── models/
+│ ├── routes/
+│ ├── services/
+│ └── ...
+├── .env
+├── README.md
+└── package.json / pom.xml
+## 🔧 Como Rodar o Projeto
+
+### Pré-requisitos
+
+- [ ] Git
+- [ ] Node.js / JDK
+- [ ] Banco de Dados rodando (local ou remoto)
+
+### Passo a passo
+
+```bash
+# Clone o repositório
+git clone https://github.com/seu-usuario/cadastro-cliente.git
+
+# Acesse a pasta do projeto
+cd cadastro-cliente
+
+# Instale as dependências (exemplo com npm)
+npm install
+
+# Execute o projeto
+npm start
+
+📫 Contato
+Desenvolvido por [Guilherme]
+📧 Email: [guilhermesimaohasckel@gmail.com]
+🔗 GitHub: [https://github.com/Guilherme-FullStack0]
